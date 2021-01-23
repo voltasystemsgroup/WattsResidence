@@ -1,0 +1,14 @@
+Watts Network
+
+XP3
+192.168.0.201
+
+Upstairs AMP
+192.168.0.205
+
+
+Downstairs AMP
+192.168.0.206
+
+AMP Password
+rti
